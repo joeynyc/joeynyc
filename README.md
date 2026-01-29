@@ -72,8 +72,10 @@ Portfolio site with a modern aesthetic. Features animated type effects, project 
 </td>
 <td width="50%" valign="top">
 
-#### More on the way...
-Always building. Check back or follow along on [X](https://twitter.com/aijoey) for updates on what I'm working on next.
+#### [Citadel Local](https://github.com/joeynyc/citadel-local)
+Local-first, open-source repo scanner that flags common security risks — secrets, injection patterns, auth footguns, insecure crypto, CI/CD misconfig — and generates actionable remediation guidance using **Ollama** models. Defensive security tooling for code you own.
+
+`Python` `Ollama` `Security` `CLI`
 
 </td>
 </tr>

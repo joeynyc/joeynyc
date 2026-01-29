@@ -16,7 +16,7 @@
 
 I tinker with LLMs, generative AI, and anything that lets me build weird and useful things. Based in NYC. Always experimenting, always learning, always shipping.
 
-- Building with agentic coding tools — **Claude Code**, **Cursor**, **Windsurf**, and whatever ships next
+- Building with agentic coding tools — **Claude Code**, **Opencode**, **Codex**, and whatever ships next
 - Interested in the intersection of AI and practical, everyday workflows
 - Background spans full-stack web dev, desktop apps, and smart home automation
 

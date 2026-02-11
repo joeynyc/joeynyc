@@ -14,8 +14,8 @@ and AI agents. NYC-based.
 - **[Citadel Local](https://github.com/joeynyc/Citadel-Local)** — Red teaming your codebase. Local security analysis tool that finds vulnerabilities before attackers do. `Python`
 - **[Pulse ZERO v1](https://github.com/joeynyc/Pulse-ZERO-v1)** — Decentralized iOS messaging client inspired by Bitchat and the Nostr protocol. Private, censorship-resistant, user-owned. `Swift` `SwiftUI`
 
-## Tech
+## Built With
 
-TypeScript · Rust · Swift · Python · React · SwiftUI · Tauri · Node.js · Bun
+Claude Code · Codex · OpenCode · Ollama
 
 [@aijoey](https://x.com/aijoey)

@@ -1,8 +1,10 @@
 # Joey Rodriguez
 
-AI tooling & full-stack development
+Self-taught developer. Building with AI.
 
-I build developer tools and AI-powered workflows — from CLI agents and MCP servers to native desktop apps. Based in NYC.
+No CS degree. No bootcamp. I taught myself to build software with Claude Code
+and shipped everything you see here — CLI tools, MCP servers, native macOS apps,
+and AI agents. NYC-based.
 
 ## Projects
 

@@ -1,4 +1,4 @@
-# Joey Rodriguez
+# Hi! I'm Joey
 
 Self-taught developer. Building with AI.
 

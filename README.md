@@ -2,7 +2,7 @@
 
 Self-taught developer. Building with AI.
 
-No CS degree. No bootcamp. I taught myself to build software with Claude Code
+No CS degree. No bootcamp. I taught myself to build software with agentic coding
 and shipped everything you see here — CLI tools, MCP servers, native macOS apps,
 and AI agents. NYC-based.
 

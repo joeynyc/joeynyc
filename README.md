@@ -16,6 +16,6 @@ and AI agents. NYC-based.
 
 ## Built With
 
-Claude Code · Codex · OpenCode · Ollama
+Claude Code · Codex · OpenCode · Hermes · OpenClaw
 
 [@aijoey](https://x.com/aijoey)

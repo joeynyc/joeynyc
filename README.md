@@ -1,6 +1,6 @@
 # Hi! I'm Joey
 
-Self-taught developer. Building with AI.
+Self-taught builder
 
 No CS degree. No bootcamp. I taught myself to build software with agentic coding
 and shipped everything you see here — CLI tools, MCP servers, native macOS apps,

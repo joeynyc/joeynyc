@@ -20,6 +20,7 @@ and AI agents. NYC-based.
 - **[repobrief](https://github.com/joeynyc/repobrief)** - Give any AI agent instant understanding of your codebase.
 - **[SnapClean](https://github.com/joeynyc/SnapClean)** - Screenshot cleanup app.
 - **[Govee MCP](https://github.com/joeynyc/Govee-MCP)** - MCP server that lets AI assistants control Govee smart lights with natural language.
+- **[CSV Cleaner Agent](https://github.com/joeynyc/-CSVCleanerAgent)** - AI agent that cleans messy CSV files using the Claude Agent SDK.
 
 ## Forks & Experiments
 

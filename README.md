@@ -11,7 +11,6 @@ and AI agents. NYC-based.
 - **[Hermes HUDUI](https://github.com/joeynyc/hermes-hudui)** - Browser-based consciousness monitor for Hermes, with persistent memory and a real-time dashboard. `Python` `Web UI`
 - **[Hermes HUD](https://github.com/joeynyc/hermes-hud)** - TUI consciousness monitor for Hermes. Watches an agent think, memory, mistakes, and growth over time. `Python` `Textual`
 - **[Hermes Skins](https://github.com/joeynyc/hermes-skins)** - Custom visual themes for the Hermes CLI agent. `YAML` `Themes`
-- **[Govee MCP](https://github.com/joeynyc/Govee-MCP)** - MCP server that lets AI assistants control Govee smart lights with natural language. `TypeScript` `MCP`
 - **[SkillScore](https://github.com/joeynyc/skillscore)** - CLI tool that evaluates AI agent skills and produces quality scores. Works with any SKILL.md-based skill from skills.sh, ClawHub, GitHub, or local directories. `TypeScript` `Bun`
 
 ## Current Projects
@@ -19,6 +18,8 @@ and AI agents. NYC-based.
 - **[wcag-audit](https://github.com/joeynyc/wcag-audit)** - Accessibility audit tooling for checking WCAG issues.
 - **[repobrief](https://github.com/joeynyc/repobrief)** - Give any AI agent instant understanding of your codebase.
 - **[SnapClean](https://github.com/joeynyc/SnapClean)** - Screenshot cleanup app.
+- **[Govee MCP](https://github.com/joeynyc/Govee-MCP)** - MCP server that lets AI assistants control Govee smart lights with natural language.
+- **[spark-doctor](https://github.com/joeynyc/spark-doctor)** - Local diagnostic CLI for NVIDIA DGX Spark and local LLM setups.
 
 ## Forks & Experiments
 

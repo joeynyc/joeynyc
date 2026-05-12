@@ -22,8 +22,6 @@ and AI agents. NYC-based.
 - **[mercury-agent](https://github.com/joeynyc/mercury-agent)** - AI agent with hardened tools, token budgets, and multi-channel access.
 - **[hermes-agent](https://github.com/joeynyc/hermes-agent)** - The agent that grows with you.
 - **[parameter-golf](https://github.com/joeynyc/parameter-golf)** - Train the smallest language model you can fit in 16MB.
-- **[dexter](https://github.com/joeynyc/dexter)** - Autonomous agent for deep financial research.
-- **[eigent](https://github.com/joeynyc/eigent)** - Open source cowork desktop experiment.
 
 ## Built With
 

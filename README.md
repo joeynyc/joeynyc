@@ -16,6 +16,10 @@ and AI agents. NYC-based.
 
 ## Current Projects
 
+- **[wcag-audit](https://github.com/joeynyc/wcag-audit)** - Accessibility audit tooling for checking WCAG issues.
+- **[repobrief](https://github.com/joeynyc/repobrief)** - Give any AI agent instant understanding of your codebase.
+- **[SnapClean](https://github.com/joeynyc/SnapClean)** - Screenshot cleanup app.
+
 ## Forks & Experiments
 
 - **[windsurf-unlocked](https://github.com/joeynyc/windsurf-unlocked)** - Cascade configuration and workflow experiment.

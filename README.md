@@ -21,6 +21,10 @@ and AI agents. NYC-based.
 - **[SnapClean](https://github.com/joeynyc/SnapClean)** - Screenshot cleanup app.
 - **[Govee MCP](https://github.com/joeynyc/Govee-MCP)** - MCP server that lets AI assistants control Govee smart lights with natural language.
 - **[CSV Cleaner Agent](https://github.com/joeynyc/-CSVCleanerAgent)** - AI agent that cleans messy CSV files using the Claude Agent SDK.
+- **[shopctl](https://github.com/joeynyc/shopctl)** - Shopify store management CLI for products, CSV workflows, inventory, metafields, and orders.
+- **[OpenClaw Mission Control](https://github.com/joeynyc/openclaw-mission-control)** - Native macOS command center for OpenClaw AI agents.
+- **[Citadel Local](https://github.com/joeynyc/Citadel-Local)** - Local red-team style codebase scanner.
+- **[Pulse ZERO v1](https://github.com/joeynyc/Pulse-ZERO-v1)** - Decentralized Swift iOS messaging client experiment.
 
 ## Forks & Experiments
 

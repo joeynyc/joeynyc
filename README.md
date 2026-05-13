@@ -19,7 +19,7 @@ and AI agents. NYC-based.
 
 - **[wcag-audit](https://github.com/joeynyc/wcag-audit)** - Accessibility audit tooling for checking WCAG issues.
 - **[repobrief](https://github.com/joeynyc/repobrief)** - Give any AI agent instant understanding of your codebase.
-- **[SnapClean](https://github.com/joeynyc/SnapClean)** - Screenshot cleanup app.
+- **[SnapClean](https://github.com/joeynyc/SnapClean)** - Screenshot cleanup app for MacOS
 - **[Govee MCP](https://github.com/joeynyc/Govee-MCP)** - MCP server that lets AI assistants control Govee smart lights with natural language.
 - **[CSV Cleaner Agent](https://github.com/joeynyc/-CSVCleanerAgent)** - AI agent that cleans messy CSV files using the Claude Agent SDK.
 - **[shopctl](https://github.com/joeynyc/shopctl)** - Shopify store management CLI for products, CSV workflows, inventory, metafields, and orders.

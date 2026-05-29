@@ -17,13 +17,13 @@ and AI agents. NYC-based.
 
 ## Current Projects
 
+- **[National Vehicle Inventory CLI](https://github.com/joeynyc/national-vehicle-inventory-cli)** - Agent-first CLI for searching real U.S. dealer vehicle inventory via the Auto.dev API.
 - **[wcag-audit](https://github.com/joeynyc/wcag-audit)** - Accessibility audit tooling for checking WCAG issues.
 - **[repobrief](https://github.com/joeynyc/repobrief)** - Give any AI agent instant understanding of your codebase.
 - **[SnapClean](https://github.com/joeynyc/SnapClean)** - Screenshot cleanup app for MacOS
 - **[Govee MCP](https://github.com/joeynyc/Govee-MCP)** - MCP server that lets AI assistants control Govee smart lights with natural language.
 - **[CSV Cleaner Agent](https://github.com/joeynyc/-CSVCleanerAgent)** - AI agent that cleans messy CSV files using the Claude Agent SDK.
 - **[shopctl](https://github.com/joeynyc/shopctl)** - Shopify store management CLI for products, CSV workflows, inventory, metafields, and orders.
-- **[National Vehicle Inventory CLI](https://github.com/joeynyc/national-vehicle-inventory-cli)** - Agent-first CLI for searching real U.S. dealer vehicle inventory via the Auto.dev API.
 - **[OpenClaw Mission Control](https://github.com/joeynyc/openclaw-mission-control)** - Native macOS command center for OpenClaw AI agents.
 - **[Citadel Local](https://github.com/joeynyc/Citadel-Local)** - Local red-team style codebase scanner.
 - **[Pulse ZERO v1](https://github.com/joeynyc/Pulse-ZERO-v1)** - Decentralized Swift iOS messaging client experiment.

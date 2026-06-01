@@ -8,7 +8,7 @@ and AI agents. NYC-based.
 
 ## EARLY ACCESS NEMOTRON 3 ULTRA 550B
 
-- review and more details coming soon
+- Review and more details coming soon!
 
 ## Start Here
 

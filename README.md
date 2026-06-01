@@ -6,6 +6,8 @@ No CS degree. No bootcamp. I taught myself to build software with agentic coding
 and shipped everything you see here - CLI tools, MCP servers, native macOS apps,
 and AI agents. NYC-based.
 
+## EARLY ACCESS NEMOTRON 3 ULTRA 550B
+
 ## Start Here
 
 - **[Hermes HUDUI](https://github.com/joeynyc/hermes-hudui)** - Browser-based consciousness monitor for Hermes, with persistent memory and a real-time dashboard. `Python` `Web UI`

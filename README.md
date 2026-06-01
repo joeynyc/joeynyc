@@ -8,6 +8,8 @@ and AI agents. NYC-based.
 
 ## EARLY ACCESS NEMOTRON 3 ULTRA 550B
 
+- review and more details coming soon
+
 ## Start Here
 
 - **[Hermes HUDUI](https://github.com/joeynyc/hermes-hudui)** - Browser-based consciousness monitor for Hermes, with persistent memory and a real-time dashboard. `Python` `Web UI`

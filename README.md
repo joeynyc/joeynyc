@@ -9,7 +9,6 @@ and AI agents. NYC-based.
 ## PROJECTS WITH NEMOTRON 3 ULTRA 550B
 
 - **[cosmos-locateanything-dgx](https://github.com/joeynyc/cosmos-locateanything-dgx)** - DGX Spark pipeline: Cosmos 3 generated video plus Locate Anything live grounding demo. `Python` `DGX Spark` `Cosmos 3`
-- Review and more details coming soon!
 
 ## Start Here
 

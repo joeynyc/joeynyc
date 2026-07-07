@@ -8,6 +8,10 @@ and AI agents. NYC-based.
 
 ## PROJECTS WITH NVIDIA DGX SPARKS
 
+- **[Hy3-295B-NVFP4-2x-DGX-Spark](https://github.com/joeynyc/Hy3-295B-NVFP4-2x-DGX-Spark)**
+- **[hermes-desktop-dgx-spark](https://github.com/joeynyc/hermes-desktop-dgx-spark)**
+- **[hermes-local-moa](https://github.com/joeynyc/hermes-local-moa)**
+- **[autonomous-research-pipeline](https://github.com/joeynyc/autonomous-research-pipeline)**
 - **[cosmos-locateanything-dgx](https://github.com/joeynyc/cosmos-locateanything-dgx)** - DGX Spark pipeline: Cosmos 3 generated video plus Locate Anything live grounding demo. `Python` `DGX Spark` `Cosmos 3`
 
 ## Start Here

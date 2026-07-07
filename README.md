@@ -8,10 +8,10 @@ and AI agents. NYC-based.
 
 ## PROJECTS WITH NVIDIA DGX SPARKS
 
-- **[Hy3-295B-NVFP4-2x-DGX-Spark](https://github.com/joeynyc/Hy3-295B-NVFP4-2x-DGX-Spark)**
-- **[hermes-desktop-dgx-spark](https://github.com/joeynyc/hermes-desktop-dgx-spark)**
-- **[hermes-local-moa](https://github.com/joeynyc/hermes-local-moa)**
-- **[autonomous-research-pipeline](https://github.com/joeynyc/autonomous-research-pipeline)**
+- **[Hy3-295B-NVFP4-2x-DGX-Spark](https://github.com/joeynyc/Hy3-295B-NVFP4-2x-DGX-Spark)** - Tencent Hy3 295B MoE on 2x NVIDIA DGX Spark with TP2 over 200GbE, 256K context, and agent-ready benchmarks. `Shell` `DGX Spark` `NVFP4`
+- **[hermes-desktop-dgx-spark](https://github.com/joeynyc/hermes-desktop-dgx-spark)** - Connect Hermes Agent Desktop on Mac to DGX Spark local models over an OpenAI-compatible API. `Shell` `DGX Spark` `Hermes`
+- **[hermes-local-moa](https://github.com/joeynyc/hermes-local-moa)** - Run Hermes Agent Mixture of Agents over local OpenAI-compatible model servers with a two-DGX-Spark reference setup. `Python` `DGX Spark` `MoA`
+- **[autonomous-research-pipeline](https://github.com/joeynyc/autonomous-research-pipeline)** - Autonomous local research pipeline using SearXNG and Gemma 4 26B to generate cited reports. `Python` `Research` `Local AI`
 - **[cosmos-locateanything-dgx](https://github.com/joeynyc/cosmos-locateanything-dgx)** - DGX Spark pipeline: Cosmos 3 generated video plus Locate Anything live grounding demo. `Python` `DGX Spark` `Cosmos 3`
 
 ## Start Here

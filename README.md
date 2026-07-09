@@ -8,6 +8,7 @@ and AI agents. NYC-based.
 
 ## PROJECTS WITH NVIDIA DGX SPARKS
 
+- **[Nemotron-Puzzle-75B-NVFP4-1x-DGX-Spark](https://github.com/joeynyc/Nemotron-Puzzle-75B-NVFP4-1x-DGX-Spark)** - Nemotron Puzzle 75B-A9B NVFP4 on 1x DGX Spark with MTP, prefix cache, and 4 concurrent streams (~40 tok/s solo, ~75 tok/s aggregate). `Shell` `DGX Spark` `NVFP4` `vLLM`
 - **[Hy3-295B-NVFP4-2x-DGX-Spark](https://github.com/joeynyc/Hy3-295B-NVFP4-2x-DGX-Spark)** - Tencent Hy3 295B MoE on 2x NVIDIA DGX Spark with TP2 over 200GbE, 256K context, and agent-ready benchmarks. `Shell` `DGX Spark` `NVFP4`
 - **[hermes-desktop-dgx-spark](https://github.com/joeynyc/hermes-desktop-dgx-spark)** - Connect Hermes Agent Desktop on Mac to DGX Spark local models over an OpenAI-compatible API. `Shell` `DGX Spark` `Hermes`
 - **[hermes-local-moa](https://github.com/joeynyc/hermes-local-moa)** - Run Hermes Agent Mixture of Agents over local OpenAI-compatible model servers with a two-DGX-Spark reference setup. `Python` `DGX Spark` `MoA`

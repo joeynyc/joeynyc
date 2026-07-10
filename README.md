@@ -8,6 +8,7 @@ and AI agents. NYC-based.
 
 ## PROJECTS WITH NVIDIA DGX SPARKS
 
+- **[spark-doctor](https://github.com/joeynyc/spark-doctor)** - Local, read-only diagnostic CLI for NVIDIA DGX Spark: power, thermal, UMA memory, CUDA/SM_121 env, vLLM KV-cache OOM, Docker, and recipe checks. `Python` `DGX Spark` `CLI`
 - **[Nemotron-Puzzle-75B-NVFP4-1x-DGX-Spark](https://github.com/joeynyc/Nemotron-Puzzle-75B-NVFP4-1x-DGX-Spark)** - Nemotron Puzzle 75B-A9B NVFP4 on 1x DGX Spark with MTP, prefix cache, and 4 concurrent streams (~40 tok/s solo, ~75 tok/s aggregate). `Shell` `DGX Spark` `NVFP4` `vLLM`
 - **[Hy3-295B-NVFP4-2x-DGX-Spark](https://github.com/joeynyc/Hy3-295B-NVFP4-2x-DGX-Spark)** - Tencent Hy3 295B MoE on 2x NVIDIA DGX Spark with TP2 over 200GbE, 256K context, and agent-ready benchmarks. `Shell` `DGX Spark` `NVFP4`
 - **[hermes-desktop-dgx-spark](https://github.com/joeynyc/hermes-desktop-dgx-spark)** - Connect Hermes Agent Desktop on Mac to DGX Spark local models over an OpenAI-compatible API. `Shell` `DGX Spark` `Hermes`
@@ -23,7 +24,6 @@ and AI agents. NYC-based.
 - **[Hermes HUD](https://github.com/joeynyc/hermes-hud)** - TUI consciousness monitor for Hermes. Watches an agent think, memory, mistakes, and growth over time. `Python` `Textual`
 - **[Hermes Skins](https://github.com/joeynyc/hermes-skins)** - Custom visual themes for the Hermes CLI agent. `YAML` `Themes`
 - **[Chronos Forge + Hermes Command Center](https://github.com/joeynyc/hermes-chronos-forge)** - Theme and dashboard cockpit for Hermes Agent. `Python` `Plugin`
-- **[spark-doctor](https://github.com/joeynyc/spark-doctor)** - Local diagnostic CLI for NVIDIA DGX Spark and local LLM setups. `Python`
 - **[SkillScore](https://github.com/joeynyc/skillscore)** - CLI tool that evaluates AI agent skills and produces quality scores. Works with any SKILL.md-based skill from skills.sh, ClawHub, GitHub, or local directories. `TypeScript` `Bun`
 
 ## Current Projects

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="hero.svg" alt="joey@nyc terminal — self-taught builder shipping CLI tools, MCP servers, macOS apps, AI agents, and a DGX Spark fleet" width="100%">
+</p>
+
 # Hi! I'm Joey
 
 Self-taught builder

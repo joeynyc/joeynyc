@@ -51,6 +51,12 @@ and AI agents. NYC-based.
 - **[hermes-agent](https://github.com/joeynyc/hermes-agent)** - The agent that grows with you.
 - **[parameter-golf](https://github.com/joeynyc/parameter-golf)** - Train the smallest language model you can fit in 16MB.
 
+## Hive Activity
+
+<p align="center">
+  <img src="contrib.svg" alt="GitHub contribution activity for the last 52 weeks, rendered as a honeycomb hex grid" width="100%">
+</p>
+
 ## Built With
 
 Claude Code · Codex · OpenCode · Hermes · OpenClaw

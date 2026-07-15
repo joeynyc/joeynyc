@@ -2,8 +2,6 @@
   <title id="heroTitle">joey@nyc terminal — self-taught builder shipping CLI tools, MCP servers, macOS apps, AI agents, and a DGX Spark fleet</title>
   <defs>
     <clipPath id="panelClip"><rect x="2" y="2" width="876" height="296" rx="12"/></clipPath>
-    <clipPath id="type1"><rect class="t1" x="153" y="76" width="54" height="22"/></clipPath>
-    <clipPath id="type2"><rect class="t2" x="153" y="136" width="117" height="22"/></clipPath>
     <linearGradient id="sweepGrad" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#7DFF3B" stop-opacity="0"/>
       <stop offset="0.5" stop-color="#7DFF3B" stop-opacity="0.05"/>
@@ -24,8 +22,8 @@
     .mut { fill: #597A59; }
 
     .scene   { animation: scene 12s linear infinite; }
-    .t1      { animation: t1  12s steps(6,end)  infinite; }
-    .t2      { animation: t2  12s steps(13,end) infinite; }
+    .cur1    { animation: cur1 12s steps(6,end)  infinite; }
+    .cur2    { animation: cur2 12s steps(13,end) infinite; }
     .c1      { animation: c1w 12s linear infinite; }
     .c1 rect { animation: c1x 12s steps(6,end)  infinite; }
     .c2      { animation: c2w 12s linear infinite; }
@@ -47,8 +45,8 @@
     .dot     { animation: pulse 2.4s ease-in-out infinite; }
 
     @keyframes scene { 0%, 94% { opacity: 1; } 98%, 100% { opacity: 0; } }
-    @keyframes t1  { 0%, 8%  { width: 0; } 16%, 100% { width: 54;  } }
-    @keyframes t2  { 0%, 30% { width: 0; } 42%, 100% { width: 117; } }
+    @keyframes cur1 { 0%, 8%  { x: 153; } 16%, 100% { x: 207; } }
+    @keyframes cur2 { 0%, 30% { x: 153; } 42%, 100% { x: 270; } }
     @keyframes c1x { 0%, 8%  { x: 153; }  16%, 100% { x: 207; } }
     @keyframes c2x { 0%, 30% { x: 153; }  42%, 100% { x: 270; } }
     @keyframes c1w { 0%, 25% { opacity: 1; } 26%, 100% { opacity: 0; } }
@@ -87,9 +85,8 @@
   <g class="scene">
     <!-- line 1: whoami -->
     <text x="36" y="92" class="prm" textLength="108">joey@nyc:~ $</text>
-    <g clip-path="url(#type1)">
-      <text x="153" y="92" class="txt" textLength="54">whoami</text>
-    </g>
+    <text x="153" y="92" class="txt" textLength="54">whoami</text>
+    <rect class="cur1" x="207" y="76" width="120" height="22" fill="#0A0E0A"/>
     <g class="c1"><rect x="153" y="79" width="9" height="17" fill="#7DFF3B" class="blink"/></g>
 
     <!-- line 2: output -->
@@ -99,9 +96,8 @@
     <g class="l3">
       <text x="36" y="152" class="prm" textLength="108">joey@nyc:~ $</text>
     </g>
-    <g clip-path="url(#type2)">
-      <text x="153" y="152" class="txt" textLength="117">ls ~/projects</text>
-    </g>
+    <text x="153" y="152" class="txt" textLength="117">ls ~/projects</text>
+    <rect class="cur2" x="270" y="136" width="130" height="22" fill="#0A0E0A"/>
     <g class="c2"><rect x="153" y="139" width="9" height="17" fill="#7DFF3B" class="blink"/></g>
 
     <!-- line 4: ls output -->

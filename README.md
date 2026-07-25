@@ -23,6 +23,7 @@ and AI agents. NYC-based.
 
 ## Start Here
 
+- **[Grok UI](https://github.com/joeynyc/Grok-UI)** - Local-first live command center for Grok Build: watch active sessions, control agents over ACP, inspect Git changes, and explore local history from the browser. `TypeScript` `React` `Grok Build` `ACP`
 - **[PinDrop](https://github.com/joeynyc/PinDrop)** - Infinite canvas for sticky notes. Offline-first PWA built with React 19, Vite, and Tailwind v4. `TypeScript` `React` `PWA`
 - **[specimen](https://github.com/joeynyc/specimen)** - Local-first SVG gallery, inspector, and exporter in a single HTML file. No uploads, no build, no dependencies. `HTML` `SVG` `Local-first`
 - **[Hermes HUDUI](https://github.com/joeynyc/hermes-hudui)** - Browser-based consciousness monitor for Hermes, with persistent memory and a real-time dashboard. `Python` `Web UI`

@@ -43,10 +43,4 @@ on NVIDIA DGX Spark.
 - **[Govee MCP](https://github.com/joeynyc/Govee-MCP)** — Control Govee smart lights from AI assistants using natural language.
 - **[repobrief](https://github.com/joeynyc/repobrief)** — Generate compact codebase context maps for AI coding agents.
 
-## Hive Activity
-
-<p align="center">
-  <img src="contrib.svg" alt="GitHub contribution activity for the last 52 weeks, rendered as a honeycomb hex grid" width="100%">
-</p>
-
 **Find me on X:** [@aijoey](https://x.com/aijoey)

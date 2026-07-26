@@ -2,55 +2,46 @@
   <img src="hero.svg" alt="joey@nyc terminal — self-taught builder shipping CLI tools, MCP servers, macOS apps, AI agents, and a DGX Spark fleet" width="100%">
 </p>
 
-# Hi! I'm Joey
+# Hi, I'm Joey
 
-Self-taught builder
+**I build local AI systems, agent tools, and interfaces.**
 
-No CS degree. No bootcamp. I taught myself to build software with agentic coding
-and shipped everything you see here - CLI tools, MCP servers, native macOS apps,
-and AI agents. NYC-based.
+Self-taught builder in NYC. No CS degree, no bootcamp—just a lot of building,
+debugging, and shipping in public. My work spans multi-DGX inference, AI agent
+infrastructure, native macOS apps, and local-first tools.
 
-## PROJECTS WITH NVIDIA DGX SPARKS
+[Featured projects](#featured-projects) · [DGX Spark lab](#dgx-spark-lab) ·
+[More projects](#more-things-ive-shipped) · [X / Twitter](https://x.com/aijoey)
 
-- **[Honeycomb](https://github.com/joeynyc/honeycomb-lab)** - Native macOS control plane for a home GPU fleet: live hex-map health monitoring over SSH plus a zero-dependency Python gateway exposing one OpenAI-compatible endpoint routing to vLLM and LM Studio. `Swift` `DGX Spark` `macOS` `vLLM`
-- **[spark-doctor](https://github.com/joeynyc/spark-doctor)** - Local, read-only diagnostic CLI for NVIDIA DGX Spark: power, thermal, UMA memory, CUDA/SM_121 env, vLLM KV-cache OOM, Docker, and recipe checks. `Python` `DGX Spark` `CLI`
-- **[Nemotron-Puzzle-75B-NVFP4-1x-DGX-Spark](https://github.com/joeynyc/Nemotron-Puzzle-75B-NVFP4-1x-DGX-Spark)** - Nemotron Puzzle 75B-A9B NVFP4 on 1x DGX Spark with MTP, prefix cache, and 4 concurrent streams (~40 tok/s solo, ~75 tok/s aggregate). `Shell` `DGX Spark` `NVFP4` `vLLM`
-- **[Hy3-295B-NVFP4-2x-DGX-Spark](https://github.com/joeynyc/Hy3-295B-NVFP4-2x-DGX-Spark)** - Tencent Hy3 295B MoE on 2x NVIDIA DGX Spark with TP2 over 200GbE, 256K context, and agent-ready benchmarks. `Shell` `DGX Spark` `NVFP4`
-- **[hermes-desktop-dgx-spark](https://github.com/joeynyc/hermes-desktop-dgx-spark)** - Connect Hermes Agent Desktop on Mac to DGX Spark local models over an OpenAI-compatible API. `Shell` `DGX Spark` `Hermes`
-- **[hermes-local-moa](https://github.com/joeynyc/hermes-local-moa)** - Run Hermes Agent Mixture of Agents over local OpenAI-compatible model servers with a two-DGX-Spark reference setup. `Python` `DGX Spark` `MoA`
-- **[autonomous-research-pipeline](https://github.com/joeynyc/autonomous-research-pipeline)** - Autonomous local research pipeline using SearXNG and Gemma 4 26B to generate cited reports. `Python` `Research` `Local AI`
-- **[cosmos-locateanything-dgx](https://github.com/joeynyc/cosmos-locateanything-dgx)** - DGX Spark pipeline: Cosmos 3 generated video plus Locate Anything live grounding demo. `Python` `DGX Spark` `Cosmos 3`
+## Featured projects
 
-## Start Here
+- **[Grok UI](https://github.com/joeynyc/Grok-UI)** — A local-first command center for Grok Build with runtime control, session history, and Git visibility. `TypeScript` `Local-first`
+- **[Honeycomb Lab](https://github.com/joeynyc/honeycomb-lab)** — A hex-map control plane for a home AI fleet.
+- **[Hermes HUDUI](https://github.com/joeynyc/hermes-hudui)** — A real-time web dashboard for watching Hermes think, use memory, make mistakes, and grow. `Python` `Web UI`
+- **[Hermes HUD](https://github.com/joeynyc/hermes-hud)** — A terminal consciousness monitor for Hermes Agent, built with Textual. `Python` `TUI`
+- **[Hermes Skins](https://github.com/joeynyc/hermes-skins)** — Custom visual themes for the Hermes CLI agent. `YAML` `Themes`
+- **[SkillScore](https://github.com/joeynyc/skillscore)** — A CLI that evaluates SKILL.md-based agent skills and produces actionable quality scores. `TypeScript` `Bun`
 
-- **[Grok UI](https://github.com/joeynyc/Grok-UI)** - Local-first live command center for Grok Build: watch active sessions, control agents over ACP, inspect Git changes, and explore local history from the browser. `TypeScript` `React` `Grok Build` `ACP`
-- **[PinDrop](https://github.com/joeynyc/PinDrop)** - Infinite canvas for sticky notes. Offline-first PWA built with React 19, Vite, and Tailwind v4. `TypeScript` `React` `PWA`
-- **[specimen](https://github.com/joeynyc/specimen)** - Local-first SVG gallery, inspector, and exporter in a single HTML file. No uploads, no build, no dependencies. `HTML` `SVG` `Local-first`
-- **[Hermes HUDUI](https://github.com/joeynyc/hermes-hudui)** - Browser-based consciousness monitor for Hermes, with persistent memory and a real-time dashboard. `Python` `Web UI`
-- **[Hermes HUD](https://github.com/joeynyc/hermes-hud)** - TUI consciousness monitor for Hermes. Watches an agent think, memory, mistakes, and growth over time. `Python` `Textual`
-- **[Hermes Skins](https://github.com/joeynyc/hermes-skins)** - Custom visual themes for the Hermes CLI agent. `YAML` `Themes`
-- **[Chronos Forge + Hermes Command Center](https://github.com/joeynyc/hermes-chronos-forge)** - Theme and dashboard cockpit for Hermes Agent. `Python` `Plugin`
-- **[SkillScore](https://github.com/joeynyc/skillscore)** - CLI tool that evaluates AI agent skills and produces quality scores. Works with any SKILL.md-based skill from skills.sh, ClawHub, GitHub, or local directories. `TypeScript` `Bun`
+## DGX Spark lab
 
-## Current Projects
+I experiment with large local models, multi-node inference, and agent workloads
+on NVIDIA DGX Spark.
 
-- **[National Vehicle Inventory CLI](https://github.com/joeynyc/national-vehicle-inventory-cli)** - Agent-first CLI for searching real U.S. dealer vehicle inventory via the Auto.dev API.
-- **[wcag-audit](https://github.com/joeynyc/wcag-audit)** - Accessibility audit tooling for checking WCAG issues.
-- **[repobrief](https://github.com/joeynyc/repobrief)** - Give any AI agent instant understanding of your codebase.
-- **[SnapClean](https://github.com/joeynyc/SnapClean)** - Screenshot cleanup app for MacOS
-- **[Govee MCP](https://github.com/joeynyc/Govee-MCP)** - MCP server that lets AI assistants control Govee smart lights with natural language.
-- **[CSV Cleaner Agent](https://github.com/joeynyc/-CSVCleanerAgent)** - AI agent that cleans messy CSV files using the Claude Agent SDK.
-- **[shopctl](https://github.com/joeynyc/shopctl)** - Shopify store management CLI for products, CSV workflows, inventory, metafields, and orders.
-- **[OpenClaw Mission Control](https://github.com/joeynyc/openclaw-mission-control)** - Native macOS command center for OpenClaw AI agents.
-- **[Citadel Local](https://github.com/joeynyc/Citadel-Local)** - Local red-team style codebase scanner.
-- **[Pulse ZERO v1](https://github.com/joeynyc/Pulse-ZERO-v1)** - Decentralized Swift iOS messaging client experiment.
+- **[spark-doctor](https://github.com/joeynyc/spark-doctor)** — A diagnostic CLI for DGX Spark that catches power, memory, thermal, CUDA, Docker, and inference-stack issues. `Python` `CLI`
+- **[Hy3 295B on 2× DGX Spark](https://github.com/joeynyc/Hy3-295B-NVFP4-2x-DGX-Spark)** — Tencent Hy3 295B MoE with TP2 over 200GbE, 256K context, and agent-ready benchmarks. `NVFP4` `vLLM`
+- **[Nemotron Puzzle 75B on 1× DGX Spark](https://github.com/joeynyc/Nemotron-Puzzle-75B-NVFP4-1x-DGX-Spark)** — A tuned NVFP4 setup with MTP, prefix caching, concurrency benchmarks, and reproducible recipes. `NVFP4` `Inference`
+- **[Hermes Local MoA](https://github.com/joeynyc/hermes-local-moa)** — Run Hermes Agent as a mixture of agents across local OpenAI-compatible model servers. `Python` `MoA`
+- **[Cosmos + Locate Anything](https://github.com/joeynyc/cosmos-locateanything-dgx)** — A generated-video and live-grounding pipeline for DGX Spark. `Python` `Computer Vision`
+- **[Hermes Desktop for DGX Spark](https://github.com/joeynyc/hermes-desktop-dgx-spark)** — Connect Hermes Agent Desktop on Mac to local models through an OpenAI-compatible API. `Shell` `Local AI`
 
-## Forks & Experiments
+## More things I've shipped
 
-- **[windsurf-unlocked](https://github.com/joeynyc/windsurf-unlocked)** - Cascade configuration and workflow experiment.
-- **[mercury-agent](https://github.com/joeynyc/mercury-agent)** - AI agent with hardened tools, token budgets, and multi-channel access.
-- **[hermes-agent](https://github.com/joeynyc/hermes-agent)** - The agent that grows with you.
-- **[parameter-golf](https://github.com/joeynyc/parameter-golf)** - Train the smallest language model you can fit in 16MB.
+- **[National Vehicle Inventory CLI](https://github.com/joeynyc/national-vehicle-inventory-cli)** — Agent-first search for real U.S. dealer inventory, with JSON, MCP, caching, and price history.
+- **[OpenClaw Mission Control](https://github.com/joeynyc/openclaw-mission-control)** — A native SwiftUI command center for OpenClaw agents.
+- **[PinDrop](https://github.com/joeynyc/PinDrop)** — An offline-first infinite canvas for sticky notes.
+- **[specimen](https://github.com/joeynyc/specimen)** — A local-first SVG gallery, inspector, and exporter in one dependency-free HTML file.
+- **[Govee MCP](https://github.com/joeynyc/Govee-MCP)** — Control Govee smart lights from AI assistants using natural language.
+- **[repobrief](https://github.com/joeynyc/repobrief)** — Generate compact codebase context maps for AI coding agents.
 
 ## Hive Activity
 
@@ -58,8 +49,4 @@ and AI agents. NYC-based.
   <img src="contrib.svg" alt="GitHub contribution activity for the last 52 weeks, rendered as a honeycomb hex grid" width="100%">
 </p>
 
-## Built With
-
-Claude Code · Codex · OpenCode · Hermes · OpenClaw
-
-[@aijoey](https://x.com/aijoey)
+**Find me on X:** [@aijoey](https://x.com/aijoey)

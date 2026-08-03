@@ -24,6 +24,7 @@ I experiment with large local models, multi-node inference, and agent workloads
 on NVIDIA DGX Spark.
 
 - **[spark-doctor](https://github.com/joeynyc/spark-doctor)** — A diagnostic CLI for DGX Spark that catches power, memory, thermal, CUDA, Docker, and inference-stack issues. `Python` `CLI`
+- **[MiniMax H3 on 1× DGX Spark](https://github.com/joeynyc/MiniMax-H3-DGX-Spark)** — A measured SM121 compatibility path for FL2VA with online FP8, a pinned vLLM-Omni build, and end-to-end audio-video verification. `FP8` `vLLM-Omni`
 - **[Hy3 295B on 2× DGX Spark](https://github.com/joeynyc/Hy3-295B-NVFP4-2x-DGX-Spark)** — Tencent Hy3 295B MoE with TP2 over 200GbE, 256K context, and agent-ready benchmarks. `NVFP4` `vLLM`
 - **[Nemotron Puzzle 75B on 1× DGX Spark](https://github.com/joeynyc/Nemotron-Puzzle-75B-NVFP4-1x-DGX-Spark)** — A tuned NVFP4 setup with MTP, prefix caching, concurrency benchmarks, and reproducible recipes. `NVFP4` `Inference`
 - **[Hermes Local MoA](https://github.com/joeynyc/hermes-local-moa)** — Run Hermes Agent as a mixture of agents across local OpenAI-compatible model servers. `Python` `MoA`

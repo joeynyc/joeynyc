@@ -13,6 +13,8 @@ infrastructure, native macOS apps, and local-first tools.
 
 - **[Grok UI](https://github.com/joeynyc/Grok-UI)** — A local-first command center for Grok Build with runtime control, session history, and Git visibility. `TypeScript` `Local-first`
 - **[Honeycomb Lab](https://github.com/joeynyc/honeycomb-lab)** — A hex-map control plane for a home AI fleet.
+- **[Microduck MCP](https://github.com/joeynyc/microduck-mcp)** — An agent-agnostic MCP server for controlling the Pollen Robotics Microduck. `TypeScript` `MCP`
+- **[Awesome Microduck](https://github.com/joeynyc/awesome-microduck)** — A curated collection of software, simulators, policies, agent tools, and coverage for the Microduck robot. `Resources` `Microduck`
 - **[Hermes HUDUI](https://github.com/joeynyc/hermes-hudui)** — A real-time web dashboard for watching Hermes think, use memory, make mistakes, and grow. `Python` `Web UI`
 - **[Hermes HUD](https://github.com/joeynyc/hermes-hud)** — A terminal consciousness monitor for Hermes Agent, built with Textual. `Python` `TUI`
 - **[Hermes Skins](https://github.com/joeynyc/hermes-skins)** — Custom visual themes for the Hermes CLI agent. `YAML` `Themes`

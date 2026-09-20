@@ -25,6 +25,7 @@ infrastructure, native macOS apps, and local-first tools.
 I experiment with large local models, multi-node inference, and agent workloads
 on NVIDIA DGX Spark.
 
+- **[Spark Image Lab](https://github.com/joeynyc/spark-image-lab)** — Local image generation and editing with Qwen-Image-2.1, up to ten reference images, persistent history, and measured DGX Spark benchmarks. `Python` `Gradio` `Qwen-Image-2.1`
 - **[spark-doctor](https://github.com/joeynyc/spark-doctor)** — A diagnostic CLI for DGX Spark that catches power, memory, thermal, CUDA, Docker, and inference-stack issues. `Python` `CLI`
 - **[MiniMax H3 on 1× DGX Spark](https://github.com/joeynyc/MiniMax-H3-DGX-Spark)** — A measured SM121 compatibility path for FL2VA with online FP8, a pinned vLLM-Omni build, and end-to-end audio-video verification. `FP8` `vLLM-Omni`
 - **[MiniMax H3 on 2× DGX Spark](https://github.com/joeynyc/MiniMax-H3-2x-DGX-Spark)** — One FL2VA video generated cooperatively across two Sparks with two-way sequence parallelism over RoCEv2, reproducibility checks, and measured results. `Multi-Node` `FL2VA`

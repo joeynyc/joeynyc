@@ -11,6 +11,7 @@ infrastructure, native macOS apps, and local-first tools.
 
 ## Featured projects
 
+- **[Spark Voice](https://github.com/joeynyc/spark-voice)** — A voice assistant, voice studio, and AI podcast that run entirely on DGX Spark, with Nemotron 3.5 Lightning, Ming 3.0 speech, web research, and pluggable models. `Python` `FastAPI` `Ming`
 - **[Microduck MCP](https://github.com/joeynyc/microduck-mcp)** — An agent-agnostic MCP server for controlling the Pollen Robotics Microduck. `TypeScript` `MCP`
 - **[Awesome Microduck](https://github.com/joeynyc/awesome-microduck)** — A curated collection of software, simulators, policies, agent tools, and coverage for the Microduck robot. `Resources` `Microduck`
 - **[Grok UI](https://github.com/joeynyc/Grok-UI)** — A local-first command center for Grok Build with runtime control, session history, and Git visibility. `TypeScript` `Local-first`
